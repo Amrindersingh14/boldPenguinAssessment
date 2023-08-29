@@ -1,0 +1,16 @@
+{
+  "name": "amrindersingh_primenumbergenerator",
+  "version": "1.0.0",
+  "description": "This is the assessment for Bold Penguin",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js",
+    "primeNumberGenerator": "node main.js 1 99"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0"
+  }
+}
